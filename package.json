@@ -2,7 +2,7 @@
   "name": "mutationobserver-browserify",
   "short name": "mutationobserver-browserify",
   "description": "MutationObserver shim for ES3 environments with browserify compatibility",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "keywords": [
     "DOM",
     "observer",
